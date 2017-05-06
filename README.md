@@ -7,4 +7,5 @@
  * Online Variational Bayes (Stochastic)
  * Online Variational Bayes (Mini-batch)
  
- NB: For better topics, need more epochs, but difficult to do w/o having to further optimize, which affects readability.
+ NB: 
+ * For better topics, need more epochs, but difficult to do w/o having to further optimize, which affects readability.
